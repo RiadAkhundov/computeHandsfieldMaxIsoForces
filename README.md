@@ -30,4 +30,7 @@ Call this function (after adding it and OpenSim 3.3 to the MATLAB path & PC path
 computeHandsfieldMaxIsoForces(osimModel_targ_filepath, acquisitionInfo, rho, osimModel_adjusted_filepath);
 
 
-For more information on the CEINMS pipeline (including a CEINMS step by step guide) see bit.ly/CEINMS_Pipeline_Redone_v1_2
+Alternatively, use batchComputeMuscleStrengthScaleFactors.m to run the main function for multiple subjects.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For more information on the CEINMS pipeline (including a CEINMS step by step guide) see the following link: bit.ly/CEINMS_Pipeline_Redone_v1_2
