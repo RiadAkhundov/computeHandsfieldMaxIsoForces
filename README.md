@@ -15,10 +15,8 @@ Expected function inputs are:
 
 2) acquisitionInfo - A struct containing subject specific information
 
-    acquisitionInfo.Subject.Height = height; %(m)
-    
-    acquisitionInfo.Subject.Weight = massOriginal; %(kg)
-    
+    acquisitionInfo.Subject.Height = height; %(m)    
+    acquisitionInfo.Subject.Weight = massOriginal; %(kg)    
     acquisitionInfo.Subject.Code = subject; %Subject ID (e.g., 'BA03')
     
 3) rho - Muscle strain value - Standard value for rho from Rajagopal et al., 2015 = 60 (just use rho = 60 unless newest literature says otherwise)
