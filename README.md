@@ -1,6 +1,6 @@
 # computeHandsfieldMaxIsoForces
 
-computeHandsfieldMaxIsoForces.m
+computeHandsfieldMaxIsoForces.m - 
 This MATLAB function is used to adjust OpenSim model maximum isometric muscle forces in accordence with the Handsfield equation (Handsfield et al., 2014 JBiomech).
 
 It works with any model if you change the fieldnames and adjust the compartmented muscles (e.g. glmax1), but this specific this version is set up for the 
